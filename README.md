@@ -39,3 +39,5 @@ Hardware/96367A935_High-Strength High-Temperature PEEK Screw.PDF
 ```
 
 ###### Note to [McMaster-Carr](<https://www.mcmaster.com>), If this is not your intended meaning of "reference use", Please open a github issue/PR and I'll do my best to reach an acceptable solution.
+
+###### Please do not use these PDF files to manufacture any of the parts they describe, Using someone else's designs without paying for them or being explicitly allowed to is a scummy thing to do, please just buy the parts instead of reproducing them without permission, or just make your own completely new custom parts.
