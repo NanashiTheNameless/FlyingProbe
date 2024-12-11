@@ -4,7 +4,7 @@
 
 ## Hardware Notes
 
-Inside [The hardware folder](<https://github.com/NanashiTheNameless/FlyingProbe/Hardware>) is a large set of renders to describe a design for a probe.
+Inside [The hardware folder](<https://github.com/NanashiTheNameless/FlyingProbe/tree/main/Hardware>) is a large set of renders to describe a design for a probe.
 
 The small (yellow) spring can be a pen spring or something similar.
 
