@@ -17,7 +17,7 @@ Although I make no promises of it truly working, it _should_ work, so use at you
 
 ## Production
 
-Gerber files can be found [here](<https://github.com/NanashiTheNameless/FlyingProbe/blob/main/production/FlyingProbe.zip>).
+Gerber files can be found [here](<https://github.com/NanashiTheNameless/FlyingProbe/raw/refs/heads/main/production/FlyingProbe.zip>).
 
 ## License
 
