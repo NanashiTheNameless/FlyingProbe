@@ -21,22 +21,27 @@ Gerber files can be found [here](<https://github.com/NanashiTheNameless/FlyingPr
 
 ## License
 
-This project licensed under OQL [found here](<https://github.com/NanashiTheNameless/FlyingProbe/blob/main/license.md>).
+This project licensed under OQL [found here](<license.md>).
 
 ## Extra Considerations
 
 The following files are not mine and are referenced from [McMaster-Carr](<https://www.mcmaster.com>) all credit for and ownership of the files is solely theirs and I take no credit for them and claim no ownership of them, <ins>**as such my license _does not_ apply to them**</ins>:
 
-```text
-Hardware/8969T477_316 Stainless Steel Corrosion-Resistant Compression Springs.PDF
-Hardware/92319A294_Nylon 6-6 Plastic Hex Standoff.PDF
-Hardware/92319A296_Nylon 6-6 Plastic Hex Standoff.PDF
-Hardware/92319A307_Nylon 6-6 Plastic Hex Standoff.PDF
-Hardware/92625A106_Stainless Steel Wing-Head Thumb Screw.PDF
-Hardware/94792A114_316 Stainless Steel Extra-Wide Truss Head Phillips Screws.PDF
-Hardware/94868A011_Female Threaded Hex Standoff.PDF
-Hardware/96367A935_High-Strength High-Temperature PEEK Screw.PDF
-```
+[Hardware/8969T477_316 Stainless Steel Corrosion-Resistant Compression Springs.PDF](<Hardware/8969T477_316 Stainless Steel Corrosion-Resistant Compression Springs.PDF>)
+
+[Hardware/92319A294_Nylon 6-6 Plastic Hex Standoff.PDF](<Hardware/92319A294_Nylon 6-6 Plastic Hex Standoff.PDF>)
+
+[Hardware/92319A296_Nylon 6-6 Plastic Hex Standoff.PDF](<Hardware/92319A296_Nylon 6-6 Plastic Hex Standoff.PDF>)
+
+[Hardware/92319A307_Nylon 6-6 Plastic Hex Standoff.PDF](<Hardware/92319A307_Nylon 6-6 Plastic Hex Standoff.PDF>)
+
+[Hardware/92625A106_Stainless Steel Wing-Head Thumb Screw.PDF](<Hardware/92625A106_Stainless Steel Wing-Head Thumb Screw.PDF>)
+
+[Hardware/94792A114_316 Stainless Steel Extra-Wide Truss Head Phillips Screws.PDF](<Hardware/94792A114_316 Stainless Steel Extra-Wide Truss Head Phillips Screws.PDF>)
+
+[Hardware/94868A011_Female Threaded Hex Standoff.PDF](<Hardware/94868A011_Female Threaded Hex Standoff.PDF>)
+
+[Hardware/96367A935_High-Strength High-Temperature PEEK Screw.PDF](<Hardware/96367A935_High-Strength High-Temperature PEEK Screw.PDF>)
 
 ###### Note to [McMaster-Carr](<https://www.mcmaster.com>), If this is not your intended meaning of "reference use", Please open a github issue/PR and I'll do my best to reach an acceptable solution.
 
